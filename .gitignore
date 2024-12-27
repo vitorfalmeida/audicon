@@ -1,0 +1,77 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Arquivos gerados pelo Build
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.snk
+*.userosscache
+*.vspscc
+*.vssscc
+*.csproj.user
+
+# Arquivos de Configuração e Cache
+*.user
+*.lock.json
+*.suo
+*.ntvs_analysis.dat
+*.log
+.project
+.idea/
+*.swp
+*.sln.cache
+*.sln.docstates
+
+# Arquivos temporários
+~$*
+*.tmp
+*.bak
+*.old
+
+# Visual Studio
+.vs/
+*.ncrunch*
+.ncrunchsolution
+.ncrunchproject
+.vscode/
+
+# Rider e outros JetBrains
+.idea/
+*.idea/
+*.iml
+*.ipr
+*.iws
+
+# Configurações locais e ferramentas
+.vscode/
+*.code-workspace
+.env
+local.settings.json
+
+# Arquivos de publicação
+*.publishsettings
+*.publish.xml
+*.pubxml
+*.pubxml.user
+
+# Outros padrões comuns
+*.sql
+*.mdf
+*.ldf
+*.pyc
+*.class
